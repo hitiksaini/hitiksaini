@@ -7,8 +7,6 @@ I enjoy coding as well as designing.
 Being consistent to my passion I've developed various web/mobile applications. I always push myself for exploring new and interesting things. <br>
 If not coding or designing you'll find me in the Gym or maybe in playground.. <br>
 
-## Technologies 
-HTML, CSS, JavaScript, React, MongoDb, Node.js, Python, Flutter.
 
 <h2> Connect with me on <a href="https://www.linkedin.com/in/hitik-saini-042691193/">Linkedin</a> </h2>
 
