@@ -11,18 +11,8 @@ If not coding or designing you'll find me in the Gym or maybe in playground.
 
 -  Technologies: HTML, CSS, JavaScript, React, MongoDb, Node.js, Python, Flutter.
 
-<a href="https://twitter.com/SainiHitik">
-  <img align="left" alt="Hitik's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hitik-saini-042691193/">
+<h2> Connect with me on Linkedin<a href="https://www.linkedin.com/in/hitik-saini-042691193/">
   <img align="left" alt="Hitik's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
-</a>
-<br>
+</a> </h2>
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Cloud and App development
-- 👯 I’m looking to collaborate on Flutter Projects
-- 📫 How to reach me: Directly message me or visit my website: https://hitik20.tech
 
-- ⚡ Fun fact: HTML is not a programming language.
