@@ -11,8 +11,6 @@ If not coding or designing you'll find me in the Gym or maybe in playground.
 
 -  Technologies: HTML, CSS, JavaScript, React, MongoDb, Node.js, Python, Flutter.
 
-<h2> Connect with me on Linkedin<a href="https://www.linkedin.com/in/hitik-saini-042691193/">
-  <img align="left" alt="Hitik's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
-</a> </h2>
+<h2> Connect with me on <a href="https://www.linkedin.com/in/hitik-saini-042691193/">Linkedin</a> </h2>
 
 
