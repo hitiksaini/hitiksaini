@@ -1,4 +1,4 @@
-# Hi, I'm Hitik!
+## Hi, I'm Hitik!
 
 <img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="350">
 
@@ -8,6 +8,6 @@ Being consistent to my passion I've developed various web/mobile applications. I
 If not coding or designing you'll find me in the Gym or maybe in playground.. <br>
 
 
-<h2> Connect with me on <a href="https://www.linkedin.com/in/hitik-saini-042691193/">Linkedin</a> </h2>
+<h3> Connect with me on <a href="https://www.linkedin.com/in/hitik-saini-042691193/">Linkedin</a> </h3>
 
 
