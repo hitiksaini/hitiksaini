@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="250">
 
-I am pursuing my Bachelors Degree in Computer Science & Engineering from Chandigarh University.<br>
+I am pursuing my Bachelor's Degree in Computer Science & Engineering from Chandigarh University.<br>
 I enjoy coding as well as designing.
 Being consistent to my passion I've developed various web/mobile applications. I always push myself for exploring new and interesting things. <br>
 If not coding or designing you'll find me in the Gym or maybe in playground.. <br>
