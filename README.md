@@ -1,6 +1,6 @@
 ## Hi, I'm Hitik!
 
-<img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="250">
+<img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="280">
 
 I am pursuing my Bachelor's Degree in Computer Science & Engineering from Chandigarh University.<br>
 I enjoy coding as well as designing.
