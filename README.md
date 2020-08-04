@@ -9,6 +9,7 @@ Being consistent to my passion I've developed various web/mobile applications. I
 If not coding or designing you'll find me in the Gym or maybe in playground.<br>
 
 ![ Github Stats](https://github-readme-stats.vercel.app/api?username=hitiksaini&show_icons=true)  <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitiksaini&layout=compact)](https://github.com/hitiksaini/github-readme-stats)
 
 ## Find me here
 <a href="https://www.linkedin.com/in/hitik-saini-042691193/"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/linkedin.png" width="40" /></a>
