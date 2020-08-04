@@ -1,5 +1,6 @@
 # Hi, I'm [Hitik](https://hitik20.tech/)
 
+<img src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/Hitik%20saini.gif">
 <img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="300">
 
 
