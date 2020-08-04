@@ -5,7 +5,7 @@
 
 
 <img src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/Hitik%20saini.gif">
-<img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="300">
+
 
 
 I am pursuing my Bachelor's Degree in Computer Science & Engineering from Chandigarh University.<br>
@@ -13,6 +13,6 @@ I enjoy coding as well as designing.
 Being consistent to my passion I've developed various web/mobile applications. I always push myself for exploring new and interesting things. <br>
 If not coding or designing you'll find me in the Gym or maybe in playground.<br>
 
-![ Github Stats](https://github-readme-stats.vercel.app/api?username=hitiksaini&show_icons=true)  <br>
+![ Github Stats](https://github-readme-stats.vercel.app/api?username=hitiksaini&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitiksaini&layout=compact)](https://github.com/hitiksaini/github-readme-stats)
 
