@@ -4,7 +4,7 @@
 <a href="https://twitter.com/SainiHitik"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/twitter.png" width="40" /></a>
 
 
-<img src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/Hitik%20saini.gif">
+<img src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/new.gif">
 
 
 
