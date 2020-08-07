@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/new.gif">
 
 
-<img align='left' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="250">
+<img align='left' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="150">
 I am pursuing my Bachelor's Degree in Computer Science & Engineering from Chandigarh University.
 I enjoy coding as well as designing.
 Being consistent to my passion I've developed various web/mobile applications. I always push myself for exploring new and interesting things.
