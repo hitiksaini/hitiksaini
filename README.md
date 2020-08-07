@@ -12,7 +12,8 @@ I am pursuing my Bachelor's Degree in Computer Science & Engineering from Chandi
 I enjoy coding as well as designing.
 Being consistent to my passion I've developed various web/mobile applications. I always push myself for exploring new and interesting things.
 If not coding or designing you'll find me in the Gym or maybe in playground.
-<img align='left' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="350">
 ![ Github Stats](https://github-readme-stats.vercel.app/api?username=hitiksaini&show_icons=true) 
+
+<img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="250">
 
 
