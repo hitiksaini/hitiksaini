@@ -16,9 +16,9 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitiksaini" alt="hitiksaini" /> </p>
 <img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="350">
 
-- 🔭 I’m currently working on **Flutter Development**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter Development**
 
 - 👯 I’m looking to collaborate on **Web, Flutter, Data Structures(see github repo)**
 
