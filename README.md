@@ -6,12 +6,10 @@
 
 <img src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/new.gif">
 
-
-<img align='left' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="150">
 I am pursuing my Bachelor's Degree in Computer Science & Engineering from Chandigarh University.
 I enjoy coding as well as designing.
 Being consistent to my passion I've developed various web/mobile applications. I always push myself for exploring new and interesting things.
-If not coding or designing you'll find me in the Gym or maybe in playground.
+If not coding or designing you'll find me in the Gym or maybe in the playground.
 
 
 
@@ -19,6 +17,7 @@ If not coding or designing you'll find me in the Gym or maybe in playground.
 <h1 align="center"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitiksaini" alt="hitiksaini" /> </p>
+<img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="350">
 
 - 🔭 I’m currently working on **Flutter Development**
 
@@ -33,6 +32,8 @@ If not coding or designing you'll find me in the Gym or maybe in playground.
 - 📫 How to reach me **[Click here](https://hitik20.tech/contact)**
 
 - ⚡ Fun fact **HTML is not a Programming Language**
+
+
 
 <h1 align="center"></h1>
 
