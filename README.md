@@ -16,7 +16,7 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitiksaini" alt="hitiksaini" /> </p>
 <img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="350">
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React/DS**
 
 - 🌱 I’m currently learning **Flutter Development**
 
@@ -24,7 +24,7 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 
 - 👨‍💻 All of my projects are available at my **Github account** 
 
-- 💬 Ask me about **Time travel, lol (I just saw 'Dark')**
+- 💬 Ask me about **Time travel, lol (I recently saw 'Dark'😍)**
 
 - 📫 How to reach me **[Click here](https://hitik20.tech/contact)**
 
