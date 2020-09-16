@@ -6,7 +6,8 @@
 
 <img src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/new.gif">
 
-<p align="left" widht="400"> I am pursuing my Bachelor's Degree in Computer Science & Engineering from Chandigarh University.
+<img align="left" src="https://github.com/hitiksaini/hitiksaini/blob/master/Absolute Fashion.gif" width="150" />
+<p align="center" widht="300"> I am pursuing my Bachelor's Degree in Computer Science & Engineering from Chandigarh University.
 I enjoy coding as well as designing.
 Being consistent to my passion I've developed various web/mobile applications. I always push myself for exploring new and interesting things.
 If not coding or designing you'll find me in the Gym or maybe in the playground.</p>
