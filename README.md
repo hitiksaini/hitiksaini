@@ -31,7 +31,7 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 
 - ⚡ Fun fact **HTML is not a Programming Language**
 
-
+- 💙 I love **Designing**
 
 <h1 align="center"></h1>
 
