@@ -21,7 +21,7 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 👯 I’m looking to collaborate on **Web, Flutter, Data Structures(see github repo)**
+- 👯 I’m looking to collaborate on **Web, Flutter**
 
 - 👨‍💻 All of my projects are available at my **Github account** 
 
