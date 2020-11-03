@@ -21,15 +21,16 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 
 - 🌱 I’m currently learning **Data Structures**
 
+- 💙 I love **Designing and Developing**
+
 - 👯 I’m looking to collaborate on **Anything that make me learn something new🙌**
 
-- 💬 Ask me about **Time travel, lol (I recently saw 'Dark'😍)**
+- 💬 Ask me about **Universe🔯 (I really read about it sometimes😅)**
 
-- 📫 How to reach me **[Click here](https://hitik20.tech/contact)**
+- 📫 How to reach me **Just text me on LinkedIn, Insta etc.**
 
 - ⚡ Fun fact **HTML is not a Programming Language**
 
-- 💙 I love **Designing**
 
 <h1 align="center"></h1>
 
