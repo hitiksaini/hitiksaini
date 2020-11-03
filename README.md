@@ -17,13 +17,11 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitiksaini" alt="hitiksaini" /> </p>
 <img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="350">
 
-- 🔭 I’m currently working on **React, OpenCV**
+- 🔭 I’m currently working on **React, Flutter Development**
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning **Data Structures**
 
-- 👯 I’m looking to collaborate on **Web, Flutter**
-
-- 👨‍💻 All of my projects are available at my **Github account** 
+- 👯 I’m looking to collaborate on **Anything that make me learn something new🙌**
 
 - 💬 Ask me about **Time travel, lol (I recently saw 'Dark'😍)**
 
