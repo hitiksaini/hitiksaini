@@ -12,14 +12,14 @@ I enjoy coding as well as designing.
 Being consistent to my passion I've developed various web/mobile applications. I always push myself for exploring new and interesting things.
 If not coding or designing you'll find me in the Gym or maybe in the playground.</p>
 
-## Check out my [Portfolio Website](https://hitik20.tech/)
+## Check out my [Website](https://hitik20.tech/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitiksaini" alt="hitiksaini" /> </p>
 <img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="350">
 
-- 🔭 I’m currently working on **React, Flutter Development**
+- 🔭 I’m currently working on **NodeJS **
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **Flutter, ReactJS**
 
 - 💙 I love **Designing and Developing**
 
