@@ -14,7 +14,7 @@ I enjoy coding as well as designing.
 Being consistent to my passion I've developed various web/mobile applications. I always push myself for exploring new and interesting things.
 If not coding or designing you'll find me in the Gym or maybe in the playground.</p>
 
-## Check out my [Website](https://hitik20.tech/)
+## `Check out my` [Website](https://hitik20.tech/)`
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitiksaini" alt="hitiksaini" /> </p>
 
@@ -36,7 +36,10 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 - ⚡ Fun fact **HTML is not a Programming Language**
 
 
+<br>
+
 <h1 align="center"></h1>
+
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
