@@ -4,7 +4,7 @@
 <a  href="https://twitter.com/SainiHitik"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/twitter.png" width="40" /></a>
 
 
-<img src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/new.gif">
+<img src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/top_img.png">
 
 <img align="left" src="https://github.com/hitiksaini/hitiksaini/blob/master/Absolute Fashion.gif" width="150" />
 <p align="center" widht="300"> I am pursuing my Bachelor's Degree in Computer Science & Engineering from Chandigarh University.
