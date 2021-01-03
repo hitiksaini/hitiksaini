@@ -45,14 +45,14 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/bootstrap.png" width="40" height="40"/>
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/cpp.png" width="40" height="40"/>
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/css.png" width="40" height="40"/>
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/express.png" width="40" height="40"/>
+  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/express.png" width="65" height="40"/>
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/flutter.png" width="40" height="40"/>
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/git.png" width="40" height="40"/>
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/html.png" width="40" height="40"/>
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/javascript.png" width="40" height="40"/>
+  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/js.png" width="40" height="40"/>
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/linux.png" width="40" height="40"/>
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/mongo.png" width="40" height="40"/>
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/nodejs.png" width="40" height="40"/>
+  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/nodejs.png" width="65" height="40"/>
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/python.png" width="40" height="40"/>
 </p>
 
