@@ -22,7 +22,7 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 
 - 🔭 I’m currently working on **NodeJS**
 
-- 🌱 I’m currently learning **Flutter, ReactJS**
+- 🌱 I’m currently learning **Flutter, ReactJS, UI/UX**
 
 - 💙 I love **Designing and Developing**
 
