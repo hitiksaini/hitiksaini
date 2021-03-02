@@ -16,10 +16,6 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitiksaini" alt="hitiksaini" /> </p>
 
-## `Check out my` [website](https://hitik20.tech/)
-
-
-
 <img align='right' src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/below.png" width="350">
 
 
@@ -29,11 +25,11 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 
 - 💙 I love **Designing and Developing**
 
-- 👯 I’m looking to collaborate on **Anything that make me learn something new🙌**
+- 👯 I’m looking to collaborate on **Web Projects🙌**
 
 - 💬 Ask me about **Universe🔯 (I really read about it sometimes😅)**
 
-- 📫 How to reach me **Just text me on LinkedIn, Insta etc.**
+- 📫 How to reach me **Just text me on LinkedIn**
 
 - 🌐 Need a website? [Hire me](https://hitik20.tech/contact)
 
