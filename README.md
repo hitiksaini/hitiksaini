@@ -6,16 +6,19 @@
 <img src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/top_img.png">
 
 
-<img align="left" src="https://github.com/hitiksaini/hitiksaini/blob/master/my_logo.png" width="150" />
+<img align="left" src="https://github.com/hitiksaini/hitiksaini/blob/master/my_logo.png" width="130" />
+
 
 <p align="" widht="300"> I am pursuing my Bachelor's Degree in Computer Science & Engineering from Chandigarh University.
 I enjoy coding as well as designing.
 Being consistent to my passion I've developed various web/mobile applications. I always push myself for exploring new and interesting things.
 If not coding or designing you'll find me in the Gym or maybe in the playground.</p>
 
-## `Check out my` [Website](https://hitik20.tech/)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitiksaini" alt="hitiksaini" /> </p>
+
+## `Check out my` [website](https://hitik20.tech/)
+
+
 
 <img align='right' src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/below.png" width="350">
 
