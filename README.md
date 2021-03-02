@@ -32,6 +32,8 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 
 - 📫 How to reach me **Just text me on LinkedIn, Insta etc.**
 
+- 🌐 Need a website? [Hire me](https://hitik20.tech/contact)
+
 - ⚡ Fun fact **HTML is not a Programming Language**
 
 
