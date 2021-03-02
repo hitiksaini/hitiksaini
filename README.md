@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/top_img.png">
 
 
-<img align="left" src="https://github.com/hitiksaini/hitiksaini/blob/master/my_logo.png" width="130" />
+<img align="left" src="https://github.com/hitiksaini/hitiksaini/blob/master/my_logo.png" width="140" />
 
 
 <p align="" widht="300"> I am pursuing my Bachelor's Degree in Computer Science & Engineering from Chandigarh University.
@@ -16,12 +16,15 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitiksaini" alt="hitiksaini" /> </p>
 
+<hr>
+
 <img align='right' src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/below.png" width="350">
 
+- 🌐 Need a website? [Hire me](https://hitik20.tech/contact)
 
 - 🔭 I’m currently working on **NodeJS**
 
-- 🌱 I’m currently learning **Flutter, ReactJS, UI/UX**
+- 🌱 I’m currently learning **ReactJS, UI/UX**
 
 - 💙 I love **Designing and Developing**
 
@@ -30,8 +33,6 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 - 💬 Ask me about **Universe🔯 (I really read about it sometimes😅)**
 
 - 📫 How to reach me **Just text me on LinkedIn**
-
-- 🌐 Need a website? [Hire me](https://hitik20.tech/contact)
 
 - ⚡ Fun fact **HTML is not a Programming Language**
 
