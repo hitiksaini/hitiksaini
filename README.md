@@ -22,7 +22,7 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 
 - 🌐 Need a website? [Hire me](https://hitik20.tech/contact)
 
-- 🔭 I’m currently working on **NodeJS**
+- 🔭 I’m currently working on **NodeJS, Flutter**
 
 - 🌱 I’m currently learning **ReactJS, UI/UX**
 
