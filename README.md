@@ -20,7 +20,7 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 
 <img align='right' src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/below.png" width="350">
 
-- 🌐 Need a website? [Hire me](https://hitik20.tech/contact)
+- 🌐 Need a website? [Hire me](https://hitiksaini.tech/contact)
 
 - 🔭 I’m currently working on **NodeJS, Flutter**
 
