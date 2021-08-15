@@ -28,8 +28,6 @@ If not coding or designing you'll find me in the Gym or maybe in the playground.
 
 - 💙 I love **Designing and Developing**
 
-- 👯 I’m looking to collaborate on **Web Projects🙌**
-
 - 💬 Ask me about **Universe🔯 (I really read about it sometimes😅)**
 
 - 📫 How to reach me **Just text me on LinkedIn**
