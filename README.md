@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **Life :)**
 
-- 📫 How to reach me **DM, email fax? maybe** 🤐
-
 - ⚡ Fun fact **You can code programs using just whitespaces**
 
 <br>
