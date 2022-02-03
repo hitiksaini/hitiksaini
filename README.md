@@ -9,9 +9,9 @@
 
 - 🌐 Need a website? [Hire me](https://hitiksaini.tech/contact)
 
-- 🔭 I’m currently working on **NodeJS, Flutter**
+- 🔭 I’m currently working on **NodeJS, Flutter, UI/UX**
 
-- 🌱 I’m currently learning **ReactJS, UI/UX**
+- 🌱 I’m currently learning **iOS Development, ReactJS**
 
 - 💙 **Designing and Developing**
 
