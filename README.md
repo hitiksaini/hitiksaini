@@ -7,8 +7,6 @@
 <a  href="https://twitter.com/SainiHitik"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/twitter.png" width="40" /></a>
 <h1 align="center"></h1>
 
-- 🌐 Need a website? [Hire me](https://hitiksaini.tech/contact)
-
 - 🔭 I’m currently working on **NodeJS, Flutter, UI/UX**
 
 - 🌱 I’m currently learning **iOS Development, ReactJS**
