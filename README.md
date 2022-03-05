@@ -17,7 +17,6 @@
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/git.png" width="40" height="40"/>
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/html.png" width="40" height="40"/>
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/js.png" width="40" height="40"/>
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/linux.png" width="40" height="40"/>
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/mongo.png" width="40" height="40"/>
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/nodejs.png" width="65" height="40"/>
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/python.png" width="40" height="40"/>
