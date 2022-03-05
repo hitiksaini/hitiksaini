@@ -5,19 +5,8 @@
 <a  href="https://www.linkedin.com/in/hitik-saini-042691193/"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/linkedin.png" width="40" /></a> &nbsp; 
 <a  href="https://www.instagram.com/hitik_20/"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/instagram.png" width="40" /></a> &nbsp; 
 <a  href="https://twitter.com/SainiHitik"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/twitter.png" width="40" /></a>
-<h1 align="center"></h1>
 
-- 🔭 I’m currently working on **NodeJS, Flutter, UI/UX**
 
-- 🌱 I’m currently learning **iOS Development, ReactJS**
-
-- 💙 **Designing and Developing**
-
-- 💬 Ask me about **Life :)**
-
-- ⚡ Fun fact **You can code programs using just whitespaces**
-
-<br>
 <h1 align="center"></h1>
 <p align="center">
   <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/bootstrap.png" width="40" height="40"/>
