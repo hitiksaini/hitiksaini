@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/top_img.png">
-<img align="left" src="https://hitiksaini.tech/images/memoji_smile.png" width="140" />
+<img align="left" src="http://www.hitiksaini.com/images/memoji_smile.png" width="140" />
 <p align="" widht="300">I'm Hitik, a developer and designer from India. I'm interested in Flutter, iOS, NodeJS, UI/UX, Startups, Stocks, Cryptocurrencies and Gym.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitiksaini" alt="hitiksaini" /> </p>
 <a  href="https://www.linkedin.com/in/hitik-saini-042691193/"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/linkedin.png" width="40" /></a> &nbsp; 
