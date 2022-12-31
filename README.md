@@ -1,23 +1,18 @@
 <img src="https://raw.githubusercontent.com/hitiksaini/hitiksaini/master/top_img.png">
 <img align="left" src="http://www.hitiksaini.com/images/memoji_smile.png" width="140" />
-<p align="" widht="300">I'm Hitik, a developer and designer from India. I'm interested in Flutter, iOS, NodeJS, UI/UX, Startups, Stocks, Cryptocurrencies and Gym.</p>
+<h2 align="left">Hi 👋, I'm Hitik Saini</h2>
+<p align="" widht="300">A passionate developer and designer from India. I'm interested in Flutter, iOS, NodeJS, UI/UX, Startups, Stocks, Cryptocurrencies and Gym.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitiksaini" alt="hitiksaini" /> </p>
-<a  href="https://www.linkedin.com/in/hitik-saini-042691193/"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/linkedin.png" width="40" /></a> &nbsp; 
-<a  href="https://www.instagram.com/hitik_20/"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/instagram.png" width="40" /></a> &nbsp; 
-<a  href="https://twitter.com/SainiHitik"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/twitter.png" width="40" /></a>
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hitik.saini) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitik-saini-042691193/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hitiksaini) 
 
-<h1 align="center"></h1>
-<p align="center">
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/bootstrap.png" width="40" height="40"/>
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/cpp.png" width="40" height="40"/>
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/css.png" width="40" height="40"/>
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/express.png" width="65" height="40"/>
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/flutter.png" width="40" height="40"/>
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/git.png" width="40" height="40"/>
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/html.png" width="40" height="40"/>
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/js.png" width="40" height="40"/>
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/mongo.png" width="40" height="40"/>
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/nodejs.png" width="65" height="40"/>
-  <img src="https://github.com/hitiksaini/hitiksaini/blob/master/icons/python.png" width="40" height="40"/>
-</p>
+### 💻 `Tech Stack`
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### 📊 `GitHub Stats`
+![](https://github-readme-stats.vercel.app/api?username=hitiksaini&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hitiksaini&theme=dark&hide_border=true)<br/>
+![](https://github-profile-trophy.vercel.app/?username=hitiksaini&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ `Random Dev Quote`
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
