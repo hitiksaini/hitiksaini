@@ -1,4 +1,4 @@
-<img align="left" src="http://www.hitiksaini.com/images/memoji_smile.png" width="140" />
+
 <h2 align="left">Hi 👋, I'm Hitik Saini</h2>
 <p align="" widht="300">A passionate developer and designer from India. I'm interested in Flutter, iOS, NodeJS, UI/UX, Startups, Stocks, Cryptocurrencies and Gym.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitiksaini" alt="hitiksaini" /> </p>
